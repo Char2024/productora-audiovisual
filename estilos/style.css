@@ -129,6 +129,14 @@ h1 {
     margin: 0 10% 0 10%;
     padding: 10px 20px;
 }
+/* padre de index */
+.padre{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 250px 250px 250px;
+    background-color: aqua;
+    width: 100%;
+}
 
     .presentacion {
         /*background-color: #E8E0E0;*/
