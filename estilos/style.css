@@ -144,7 +144,7 @@ h1 {
 }
 /* cards de grid */
 .card_1{
-    padding: 10px 0px 10px 0px;
+    padding: 10px;
     background-color: #007ACC;
     grid-area: car1;
 }
@@ -158,10 +158,12 @@ h1 {
 .card_3{
     background-color: #007ACC;
     grid-area: car3;
+    padding: 10px;
 }
 .card_4{
     background-color: #c6c8c9;
     grid-area: car4;
+    padding: 10px;
 }
 
     .presentacion {
