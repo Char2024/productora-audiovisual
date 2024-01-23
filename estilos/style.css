@@ -303,7 +303,7 @@ footer img {
         text-align: justify;
     }
     .iframe{
-        width: 400px;
+        width: 380px;
     }
     .iframe p{
         margin-top: 10px;
@@ -320,6 +320,18 @@ footer img {
         height: 45px;
     }
     .form input {
+        width: 360px;
+    }
+    .presentacion{
+        width: 380px;
+    }
+    section .form{
+        width: 360px;
+    }
+    #mensaje{
+        width: 360px;
+    }
+    #btnform{
         width: 360px;
     }
         
