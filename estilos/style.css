@@ -303,7 +303,7 @@ footer img {
         text-align: justify;
     }
     .iframe{
-        width: 450px;
+        width: 400px;
     }
     .iframe p{
         margin-top: 10px;
@@ -318,6 +318,9 @@ footer img {
     .btn-wp{
         width: 45px;
         height: 45px;
+    }
+    .form input {
+        width: 360px;
     }
         
 }
