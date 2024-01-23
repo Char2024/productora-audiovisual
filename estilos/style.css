@@ -307,6 +307,7 @@ footer img {
     }
     .iframe p{
         margin-top: 10px;
+        width: 380px;
     }
     .contenedorGr{
         display: flex;
