@@ -329,6 +329,8 @@ footer img {
     .btn-wp{
         width: 45px;
         height: 45px;
+        bottom: 30px;
+        right: 20px;
     }
     .form input {
         width: 360px;
